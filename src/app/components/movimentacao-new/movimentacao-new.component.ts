@@ -12,8 +12,8 @@ export class MovimentacaoNewComponent implements OnInit {
   correntista:any;
 
   dataHora:any;
-  valor:any;
   descricao:any;
+  valor:any;
   tipo:any;
   
   constructor(
